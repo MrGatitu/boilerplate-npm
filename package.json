@@ -3,6 +3,7 @@
 	"author": "Ian Gatitu",
 	"description": "BackEnd tutorial",
 	"keywords": ["freecodecamp","API","backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
