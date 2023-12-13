@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ian Gatitu",
 	"description": "BackEnd tutorial",
-	"keywords": ["server","API"],
+	"keywords": ["server","API","backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
