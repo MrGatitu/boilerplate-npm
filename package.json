@@ -1,5 +1,6 @@
 {
-	"name": "Ian Gatitu-json",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Ian Gatitu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
